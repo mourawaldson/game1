@@ -1,0 +1,11 @@
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Game1.exe
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Game1.pdb
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\obj\x86\Debug\Game1.exe
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\obj\x86\Debug\Game1.pdb
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Content\Spacebackground.xnb
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Content\meteoro.xnb
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Content\nave.xnb
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\Lab05-adm\Desktop\Oficina\Game1\bin\x86\Debug\Content\Lixeira do Windows XP.xnb

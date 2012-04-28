@@ -1,0 +1,5 @@
+Content\Spacebackground.xnb
+Content\meteoro.xnb
+Content\nave.xnb
+Content\SpriteFont1.xnb
+Content\Lixeira do Windows XP.xnb
